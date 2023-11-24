@@ -41,7 +41,8 @@
 
 h1 {
     /* font-family: 'Dancing Script', cursive; */
-    font-family: 'Tillana', cursive;
+/*     font-family: 'Tillana', cursive; */
+    font-family: 'Playfair Display', serif;
     position: absolute;
     font-size: 10rem;
     top: 3rem;
@@ -59,7 +60,8 @@ section {
 }
 
 .secheading {
-    font-family: 'Tillana', cursive;
+/*     font-family: 'Tillana', cursive; */
+    font-family: 'Playfair Display', serif;
     font-size: 5rem;
     padding: 0 10rem;
 }
@@ -68,7 +70,8 @@ section {
     font-size: 1.5rem;
     padding: 0 10rem;
     margin: 5rem 0;
-    font-family: 'Caveat', cursive;
+/*     font-family: 'Caveat', cursive; */
+    font-family: 'Playfair Display', serif;
 }
 
 .hh {
@@ -90,7 +93,8 @@ section {
     top: 50%;
     left: 50%;
     transform: translateX(-50%);
-    font-family: 'Tillana', cursive;
+/*     font-family: 'Tillana', cursive; */
+    font-family: 'Playfair Display', serif;
     font-weight: 600;
 }
 
